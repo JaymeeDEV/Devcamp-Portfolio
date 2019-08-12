@@ -1,24 +1,13 @@
-# README
+# Portfolio created as part of Udemy's dissecting Ruby on Rails course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 2.4.1
 
-Things you may want to cover:
+* Created with Ruby on Rails & PostgreSQL
 
-* Ruby version
+### Instructions
 
-* System dependencies
+* Bundle install
 
-* Configuration
+* Rails db:setup
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails server
